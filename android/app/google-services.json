@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363505993817",
+    "project_id": "exim-d1a5b",
+    "storage_bucket": "exim-d1a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363505993817:android:0efc5597d0e4a1d8c00948",
+        "android_client_info": {
+          "package_name": "com.sofist.exim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363505993817-q0qcd8jk2pv32p6eq8hcbqga449i40mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxkEHzQozj09Z9yI-LCM9B3XDYezK22Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363505993817-q0qcd8jk2pv32p6eq8hcbqga449i40mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
